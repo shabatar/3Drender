@@ -1,2 +1,2 @@
 # computergraphics
-3D-Blender renderer
+3D-Blender viewer
